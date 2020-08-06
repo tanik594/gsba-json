@@ -1,0 +1,124 @@
+{
+  "detail": {
+    "data": {
+      "successful_bid_items": {
+        "id": "ai",
+        "customer_id_dealer_no": "ai",
+        "customer_id_dealer_name": "ai",
+        "manage_no": "ai",
+        "auction_lot_sub": "ai",
+        "sba_category_code": "ai",
+        "first_category_code": "ai",
+        "first_category_name": "ai",
+        "second_category_name": "ai",
+        "brand_category_name": "ai",
+        "rolex_model_name": "ai",
+        "accessories": "ai",
+        "name": "ai",
+        "starting_price": "ai",
+        "consign_starting_price": "ai",
+        "purchase_method": "ai",
+        "purchase_shop": "ai",
+        "purchase_staff_name": "ai",
+        "purchase_at": "ai",
+        "purchase_price": "ai",
+        "prospective_selling_price": "ai",
+        "exhibit_at": "ai",
+        "result_status": "ai",
+        "bid_price": "ai",
+        "bid_date": "ai",
+        "bid_id": "ai",
+        "sub_category": "ai",
+        "prospective_starting_price": "ai",
+        "accessory_manage_no_1": "ai",
+        "accessory_manage_no_2": "ai",
+        "pms_item_id": "ai",
+        "lot_no": "ai",
+        "fix_model_name": "ai",
+        "fix_rank": "ai",
+        "fix_other": "ai",
+        "fix_model_no": "ai",
+        "fix_serial": "ai",
+        "fix_material": "ai",
+        "fix_color": "ai",
+        "fix_size": "ai",
+        "fix_category": "ai",
+        "fix_condition": "ai",
+        "fix_weight": "ai",
+        "fix_initial": "ai",
+        "fix_shape": "ai",
+        "fix_metal_fittings": "ai",
+        "fix_movement": "ai",
+        "fix_dial": "ai",
+        "fix_remainder_piece": "ai",
+        "fix_jewelry_name_1": "ai",
+        "fix_jewelry_name_2": "ai",
+        "fix_hallmark": "ai",
+        "fix_stone_eye_1": "ai",
+        "fix_stone_eye_2": "ai",
+        "fix_clarity": "ai",
+        "fix_cut": "ai",
+        "fix_fluorescent": "ai",
+        "condition_missing": "ai",
+        "condition_outside": "ai",
+        "condition_inside": "ai",
+        "condition_handle": "ai",
+        "condition_corner": "ai",
+        "condition_joint": "ai",
+        "condition_metal_fittings": "ai",
+        "condition_case": "ai",
+        "condition_belt_buckle": "ai",
+        "condition_windshield": "ai",
+        "condition_other_1": "ai",
+        "condition_other_2": "ai",
+        "condition_belt_drip": "ai",
+        "condition_malfunction_1": "ai",
+        "condition_malfunction_2": "ai"
+      }
+    }
+  },
+  "check": {
+    "data": {
+      "user_id": "12345",
+      "company_name": "株式会社",
+      "delivery_zip": "9999999",
+      "delivery_country": "日本",
+      "delivery_address": "品川",
+      "addressee": "葉加瀬太郎",
+      "delivery_categories": "ジャンル"
+    }
+  },
+  "bidders": {
+    "data": {
+      "successful_bidder": [
+        {
+          "user_id": "10",
+          "company_name": "落札会社名10",
+          "country": "Japan",
+          "user_type": "2",
+          "delivery_agent_id": "0",
+          "delivery_agent_name": "配送業者0",
+          "created_at": "2020-08-01 09:00:00",
+          "deleted_at": ""
+        },
+        {
+          "user_id": "11",
+          "company_name": "落札会社名11",
+          "country": "Japan",
+          "user_type": "2",
+          "delivery_agent_id": "1",
+          "delivery_agent_name": "配送業者1",
+          "created_at": "2020-08-02 09:00:00",
+          "deleted_at": ""
+        }
+      ]
+    }
+  },
+  "login": {
+    "data": {
+      "staff_id": "12",
+      "staff_name": "作業者の名前",
+      "token": "aaaaaaaaaaaaaaaaa"
+    }
+  }
+}
